@@ -1,0 +1,6 @@
+{
+  "name": "Jagrutipatrika",
+  "description": "Jagrutipatrika (ଜାଗୃତି) - Digital Magazine, Literature Social Feed, Editorial Workflow, Stories, Competitions & Odia Publishing Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
